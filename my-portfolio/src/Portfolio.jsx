@@ -226,7 +226,7 @@ export default function Portfolio() {
         <section className="hero">
           <div className="hero__inner">
             <Reveal>
-              <p className="eyebrow">// kwizera_iyera_fred · fullstack_engineer</p>
+              <p className="eyebrow">// Kwizera Iyera Fred · Fullstack Software Engineer</p>
             </Reveal>
             <Reveal delay={80}>
               <h1 className="hero__title">
